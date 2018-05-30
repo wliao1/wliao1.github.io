@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: William Liao
 header-img: img/home-bg.png
 email: williamcliao@gmail.com
 copyright_name: wliao1
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Data Science & Web Development
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  wliao1
